@@ -22,7 +22,7 @@
 
   <ol>
       <li>Склонируйте репозиторий с помощью следующей команды:</li>
-      <code>git clone https://github.com/Annanas555/ESP8266SmartSwitcher.git</code>
+      <code>git clone https://github.com/Annanas555/ESP8266Switcher.git</code>
       <li>Подключите микроконтроллер ESP8266 к вашей сети Wi-Fi, указав имя и пароль сети в коде.</li>
       <li>Укажите токен вашего Telegram-бота в коде.</li>
       <li>Определите список устройств, которыми Вы хотите управлять, и укажите их пины в коде.</li>
