@@ -43,4 +43,5 @@
 
   <h2>Схема подключения:</h2>
 
-  ![image](https://github.com/Annanas555/ESP8266SmartSwitcher/assets/128131401/43121699-2efc-4561-be5b-fad874d8d2f3)
+  ![image](https://github.com/Annanas555/ESP8266Switcher/assets/128131401/6fe56950-93b0-452d-90a7-cfabc9c4590b)
+
